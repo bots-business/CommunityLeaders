@@ -37,6 +37,9 @@
 ` • Following Notes are based on BB Admin's Point of view`
 
 
-[NEW!] 
+<br><br>
+![#c5f015](https://via.placeholder.com/75/c5f015/000000?text=N) ![#c5f015](https://via.placeholder.com/75/c5f015/000000?text=E)  ![#c5f015](https://via.placeholder.com/75/c5f015/000000?text=W)
+<br>
+
 ### Reputation System [Draft]
 https://telegra.ph/Reputation-System-Draft-02-06
